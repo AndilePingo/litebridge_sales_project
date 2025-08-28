@@ -36,18 +36,11 @@ This project demonstrates a **full end-to-end sales data engineering pipeline** 
 ---
 
 ## 📊 Dashboards
-- **Revenue by Product:** Bar chart of total revenue per product.  
+- **Revenue by Product:** Bar chart of total revenue per product.  (https://github.com/AndilePingo/litebridge_sales_project/blob/main/Monthly_Revenue%20.png)
 - **Monthly Revenue Trend:** Line chart showing revenue trend over months.  
 - **Category Performance:** Bar or pie chart showing category contributions.  
 - **Top Customers:** Bar chart showing top customers by spend.  
 
-*(Add screenshots to `screenshots/` folder and embed them here)*  
-
-Example:
-
-```markdown
-![Revenue by Product](screenshots/revenue_by_product.png)
-![Monthly Revenue Trend](screenshots/monthly_revenue_trend.png)
 
 
 ## Technologies Used
